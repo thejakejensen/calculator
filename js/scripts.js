@@ -2,15 +2,15 @@ var add = function(number1, number2) {
   return number1 + number2;
 };
 
-var subtract = function(number1, number2) {
+var sub = function(number1, number2) {
   return number1 - number2;
 };
 
-var multiply = function(number1, number2) {
+var mult = function(number1, number2) {
   return number1 * number2;
 };
 
-var divide = function(number1, number2) {
+var div = function(number1, number2) {
   return number1 / number2;
 };
 
